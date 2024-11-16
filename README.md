@@ -2,7 +2,7 @@
 
 🎓 **Aspiring Computer Scientist** | 🌐 **Frontend Enthusiast** | 🚀 **Future Full-Stack Developer** | 🇳🇬 Proud Nigerian  
 
-Welcome to my tech corner! I'm Yahaya, a passionate high school student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into cybersecurity, and ultimately embrace data science.  
+Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into cybersecurity, and ultimately embrace data science.  
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my tech corner! I'm Yahaya, a passionate high school student taking b
 ---
 
 ## 💼 Projects  
-🌐 **Portfolio**: Soon-to-be-launched under the name **Yixuan.Min**, a reflection of my growth in web design.  
+🌐 **Portfolio**: Soon-to-be-launched under the name **YIMMIY1389**, a reflection of my growth in web design.  
 🍲 **JOT (Jollof Of Techies)**: A project with a Nigerian vibe to celebrate tech exploration.  
 
 ---
