@@ -46,7 +46,7 @@ When I'm not coding, I enjoy expanding my knowledge through books on:
 - **Facebook**: [minkailyahayaibrahim](https://facebook.com/minkailyahayaibrahim)  
 - **Twitter**: [@MinkailYahaya](https://x.com/MinkailYahaya)  
 - **Instagram**: [minkailyahayaibrahim](https://instagram.com/minkailyahayaibrahim)  
-- **Discord**: [MinkailYahaya](https://telegram.com/MinkailYahaya)
+- **Telegram**: [MinkailYahaya](https://t.me/MinkailYahaya)
 - **Reddit**: [u/Yahayaminkail](https://reddit.com/u/Yahayaminkail)  
 - **LinkedIn**: [Public Profile](https://www.linkedin.com/public-profile/settings)
 
