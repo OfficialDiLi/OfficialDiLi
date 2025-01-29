@@ -2,19 +2,19 @@
 
 🎓 **Aspiring Computer Scientist** | 🌐 **AI Enthusiast** | 🚀 **Future AI Full-Stack Engineer** | 🇳🇬 Proud Nigerian  
 
-Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into AI, and ultimately embrace data science.  
+Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master frontend development, dive into AI/ML, explore cloud computing  and ultimately embrace data science.  
 
 ---
 
 ## 🌟 About Me  
 - 🌍 **Tribe:** Hausa  
-- 💻 **Current Focus:** Web development (HTML, CSS, and more!)  
+- 💻 **Current Focus:** Frontend development (HTML, CSS, JS and more!)  
 - 🔎 **Curious About:** Backend workings, AI data feeding, and database magic.  
 - 📖 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps.  
 - 💡 **Tech Goals:**  
   1. Build a solid foundation in Software development.  
   2. Transition to full-stack AI development.  
-  3. Advance into Cloud Computing, Cybersecurity, and Data Science.  
+  3. Advance into Cloud Computing, and Data Science.  
 
 ---
 
