@@ -1,6 +1,6 @@
 # Hi there, I'm Yahaya Minkail Ibrahim 👋  
 
-🎓 **Aspiring Computer Scientist** | 🌐 **AI Enthusiast** | 🚀 **Future AI Software Engineer** | 🇳🇬 Proud Nigerian  
+🎓 **Aspiring Computer Scientist** | 🌐 **AI Enthusiast** | 🚀 **Future AI Full-Stack Engineer** | 🇳🇬 Proud Nigerian  
 
 Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into AI, and ultimately embrace data science.  
 
