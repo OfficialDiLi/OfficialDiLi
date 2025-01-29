@@ -1,19 +1,19 @@
 # Hi there, I'm Yahaya Minkail Ibrahim 👋  
 
-🎓 **Aspiring Computer Scientist** | 🌐 **Frontend Enthusiast** | 🚀 **Future Full-Stack Developer** | 🇳🇬 Proud Nigerian  
+🎓 **Aspiring Computer Scientist** | 🌐 **AI Enthusiast** | 🚀 **Future AI Software Engineer** | 🇳🇬 Proud Nigerian  
 
-Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into cybersecurity, and ultimately embrace data science.  
+Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master web development, explore cloud computing, dive into AI, and ultimately embrace data science.  
 
 ---
 
 ## 🌟 About Me  
 - 🌍 **Tribe:** Hausa  
 - 💻 **Current Focus:** Web development (HTML, CSS, and more!)  
-- 🔎 **Curious About:** Backend workings, AI data feeding, and database magic in production.  
+- 🔎 **Curious About:** Backend workings, AI data feeding, and database magic.  
 - 📖 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps.  
 - 💡 **Tech Goals:**  
-  1. Build a solid foundation in frontend development.  
-  2. Transition to full-stack development.  
+  1. Build a solid foundation in Software development.  
+  2. Transition to full-stack AI development.  
   3. Advance into Cloud Computing, Cybersecurity, and Data Science.  
 
 ---
@@ -33,9 +33,9 @@ When I'm not coding, I enjoy expanding my knowledge through books on:
 ---
 
 ## 🚀 Skills  
-- **Programming Languages:** Python (Basic)  
+- **Programming Languages:** Python (Basic) Javascript (Basic) 
 - **Web Development:** HTML, CSS (beginner, growing fast!)  
-- **Tools & Frameworks:** Django, Streamlit, Docker (learning).  
+- **Tools & Frameworks:** Git, GitHub, Numpy, Pandas, Matplotlib, Scipy, Pytorch, Tensorflow, Django, Streamlit, Docker (learning).  
 - **Server Management:** Basic NGINX and WSL setups.  
 
 ---
