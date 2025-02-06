@@ -6,9 +6,8 @@ Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold 
 
 ---
 
-## 🌟 About Me  
-- 🌍 **Tribe:** Hausa  
-- 💻 **Current Focus:** Frontend development (HTML, CSS, JS and more!)  
+## 🌟 About Me 
+- 💻 **Current Focus** Frontend development (HTML, CSS, JS, Python and more!)  
 - 🔎 **Curious About:** Backend workings, AI data feeding, and database magic.  
 - 📖 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps.  
 - 💡 **Tech Goals:**  
@@ -20,6 +19,7 @@ Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold 
 
 ## 💼 Projects  
 🌐 **Portfolio**: Soon-to-be-launched under the name **YIMMIY1389**, a reflection of my growth in web design.  
+  **SPSP Project** : A Student Projects Showcase Platform for Everyone.
 🍲 **JOT (Jollof Of Techies)**: A project with a Nigerian vibe to celebrate tech exploration.  
 
 ---
