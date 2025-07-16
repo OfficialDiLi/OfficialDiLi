@@ -1,13 +1,13 @@
 # Hi there, I'm Yahaya Minkail Ibrahim 👋  
 
-🎓 **Aspiring Computer Scientist** | 🌐 **AI Enthusiast** | 🚀 **Future Full-Stack Engineer** | **GenAI Application Engineer** | 🇳🇬 **Proudly Nigerian** 
+🎓 **Aspiring Computer Science Researcher** | 🌐 **AI Enthusiast** | 🚀 **Future Full-Stack Engineer** | **GenAI Application Engineer** | 🇳🇬 **Proudly Nigerian** 
 
-Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to master frontend development, dive into AI/ML, explore cloud computing  and ultimately embrace data science.  
+Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to Create my own craft Brand Called **DiLi - Smarter Living Phygitally**, master Web development, dive into AI/ML, explore cloud computing  and ultimately embrace data science.  
 
 ---
 
 ## 🌟 About Me 
-- 💻 **Current Focus** Frontend development (HTML, CSS, JS, Python and more!)  
+- 💻 **Current Focus** Web development (HTML, CSS, JS, Python and more!)  
 - 🔎 **Curious About:** Backend workings, AI data feeding, and database magic.  
 - 📖 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps.  
 - 💡 **Tech Goals:**  
@@ -18,14 +18,16 @@ Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold 
 ---
 
 ## 💼 Projects  
-🌐 **Portfolio**: Soon-to-be-launched under the name **YIMMIY1389**, a reflection of my growth in web design.  
+   **DiLi**: Smarter Living Phygitally.
+🌐 **Portfolio**: Soon-to-be-launched under the Brand **DiLi**, a reflection of my growth in web design.  
   **SPSP Project** : A Student Projects Showcase Platform for Everyone.
 🍲 **JOT (Jollof Of Techies)**: A project with a Nigerian vibe to celebrate tech exploration.  
 
 ---
 
 ## 📚 Interests  
-When I'm not coding, I enjoy expanding my knowledge through books on:  
+When I'm not coding, I enjoy expanding my knowledge through books on: 
+- Research, Exploring Technologies and Education Gist
 - Financial management (personal & entrepreneurial).  
 - Communication & negotiation skills.  
 - Stories of hard-working entrepreneurs, legends, and inspiring fictional characters.  
@@ -33,8 +35,8 @@ When I'm not coding, I enjoy expanding my knowledge through books on:
 ---
 
 ## 🚀 Skills  
-- **Programming Languages:** Python (Basic) Javascript (Basic) 
-- **Web Development:** HTML, CSS (beginner, growing fast!)  
+- **Programming Languages:** Python Javascript 
+- **Web Development:** HTML, CSS, JS, React, 
 - **Tools & Frameworks:** Git, GitHub, Numpy, Pandas, Matplotlib, Scipy, Pytorch, Tensorflow, Django, Streamlit, Docker (learning).  
 - **Server Management:** Basic NGINX and WSL setups.  
 
