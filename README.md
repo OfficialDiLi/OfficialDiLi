@@ -1,57 +1,107 @@
-# Hi there, I'm Yahaya Minkail Ibrahim 👋  
+<h1 align="center">Hi there, I'm Yahaya Minkail Ibrahim 👋</h1>
 
-🎓 **Aspiring Computer Science Researcher** | 🌐 **AI Enthusiast** | 🚀 **Future Full-Stack Engineer** | **GenAI Application Engineer** | 🇳🇬 **Proudly Nigerian** 
+<p align="center">
+  <b>Aspiring Computer Science Researcher | GenAI Application Engineer | Future Full-Stack Developer | Proudly Nigerian 🇳🇬</b>  
+</p>
 
-Welcome to my tech corner! I'm Yahaya, a passionate College student taking bold steps into the tech world. With big dreams and a relentless curiosity, I'm on a journey to Create my own craft Brand Called **DiLi - Smarter Living Phygitally**, master Web development, dive into AI/ML, explore cloud computing  and ultimately embrace data science.  
-
----
-
-## 🌟 About Me 
-- 💻 **Current Focus** Web development (HTML, CSS, JS, Python and more!)  
-- 🔎 **Curious About:** Backend workings, AI data feeding, and database magic.  
-- 📖 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps.  
-- 💡 **Tech Goals:**  
-  1. Build a solid foundation in Software development.  
-  2. Transition to full-stack AI development.  
-  3. Advance into Cloud Computing, and Data Science.  
+<p align="center">
+  <i>Building with Purpose | Learning with Passion | Dreaming Beyond Borders</i>
+</p>
 
 ---
 
-## 💼 Projects  
-   **DiLi**: Smarter Living Phygitally.
-🌐 **Portfolio**: Soon-to-be-launched under the Brand **DiLi**, a reflection of my growth in web design.  
-  **SPSP Project** : A Student Projects Showcase Platform for Everyone.
-🍲 **JOT (Jollof Of Techies)**: A project with a Nigerian vibe to celebrate tech exploration.  
+## 💡 DiLi — Smarter Living Phygitally  
+
+**DiLi (Digitalize Life)** is my personal and professional vision:  
+> “To harmonize life with intelligent technology — for smarter homes, empowered individuals, and digitally literate communities across Africa and beyond.”
+
+🎯 **Mission**: Build tools, platforms, and communities that merge **physical living with digital intelligence** — Phygitally.
+
+🔬 **Focus**:  
+- Smart Home Automation  
+- Digital Literacy & Access  
+- AI for Indigenous Languages  
+- Tech-Driven Education & Sustainability  
+
+> 🌀 DiLi is not just a brand—it's a movement to **live smarter, think deeper, and code for change**.
 
 ---
 
-## 📚 Interests  
-When I'm not coding, I enjoy expanding my knowledge through books on: 
-- Research, Exploring Technologies and Education Gist
-- Financial management (personal & entrepreneurial).  
-- Communication & negotiation skills.  
-- Stories of hard-working entrepreneurs, legends, and inspiring fictional characters.  
+## 🌟 About Me
+
+- 🎓 **Current Focus:** Web Development (HTML, CSS, JS, Python)  
+- 🧠 **Curious About:** Backend mechanics, AI data pipelines, and database orchestration  
+- 📚 **Learning Journey:** From Python basics to Django projects, Docker concepts, and now Streamlit for interactive data apps  
+- 🛠️ **Tech Goals:**  
+  1. Build strong foundations in Software Engineering  
+  2. Transition into Full-Stack & AI/ML  
+  3. Advance into Cloud Computing & Data Science  
 
 ---
 
-## 🚀 Skills  
-- **Programming Languages:** Python Javascript 
-- **Web Development:** HTML, CSS, JS, React, 
-- **Tools & Frameworks:** Git, GitHub, Numpy, Pandas, Matplotlib, Scipy, Pytorch, Tensorflow, Django, Streamlit, Docker (learning).  
-- **Server Management:** Basic NGINX and WSL setups.  
+## 💼 Projects
+
+- 🚀 **DiLi** — Smarter Living Phygitally (Ongoing Visionary Brand)  
+- 💼 **Portfolio Website** — Coming soon, under the DiLi identity  
+- 🧑‍🎓 **SPSP Project** — Student Projects Showcase Platform for peer-powered learning  
+- 🍲 **JOT (Jollof Of Techies)** — A Nigerian-inspired initiative to celebrate tech diversity and culture  
 
 ---
 
-## 🌐 Let's Connect  
-💬 I'm always excited to connect with fellow techies, share knowledge, and work on collaborative projects.  
+## 📚 Interests
 
-- **Facebook**: [minkailyahayaibrahim](https://facebook.com/minkailyahayaibrahim)  
-- **Twitter**: [@MinkailYahaya](https://x.com/MinkailYahaya)  
-- **Instagram**: [minkailyahayaibrahim](https://instagram.com/minkailyahayaibrahim)  
-- **Telegram**: [MinkailYahaya](https://t.me/MinkailYahaya)
-- **Reddit**: [u/Yahayaminkail](https://reddit.com/u/Yahayaminkail)  
-- **LinkedIn**: [Public Profile](https://www.linkedin.com/public-profile/settings)
+Outside of code, I grow through reading and storytelling:
+
+- 📖 Research, Educational Ideas, and Tech Exploration  
+- 💰 Financial & Entrepreneurial Wisdom  
+- 🗣️ Communication and Negotiation Skills  
+- 🦸‍♂️ Biographies & Stories of Trailblazers and Visionaries  
 
 ---
 
-Thank you for stopping by! Together, let's code the world into a better place. 🚀✨
+## 🚀 Skills & Technologies
+
+- 🧑‍💻 **Languages**: Python, JavaScript  
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React  
+- 🧱 **Backend**: Django (learning), Streamlit  
+- 📦 **Data Science Tools**: Numpy, Pandas, Matplotlib, Scipy, PyTorch, TensorFlow  
+- ⚙️ **DevOps & Tools**: Git, GitHub, Docker (learning), Basic NGINX, WSL  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialDiLi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialDiLi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+I'm always open to collaboration, feedback, and building something meaningful together:
+
+- 📘 [Facebook](https://facebook.com/minkailyahayaibrahim)  
+- 🐦 [Twitter / X](https://x.com/MinkailYahaya)  
+- 📷 [Instagram](https://instagram.com/minkailyahayaibrahim)  
+- 💬 [Telegram](https://t.me/MinkailYahaya)  
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/public-profile/settings)  
+- 🧠 [Reddit](https://reddit.com/u/Yahayaminkail)  
+
+---
+
+## 🙏 Final Note
+
+> Thank you for visiting.  
+> Let’s **code the world into a better place**, one line, one loop, and one dream at a time.  
+> ✨ *The world is waiting. DiLi is rising. I am Yahaya.*
+
+---
