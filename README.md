@@ -40,16 +40,12 @@ AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in
 - 🧪 **AI Engineering**: Using Hugging Face, Streamlit, Python APIs  
 - 🕸️ **AGI Curiosity**: Exploring foundational AI and emerging cognition
 
+---
 
 ## 🌟 About Me
 
-- 🎓 **Current Focus**: Web Development + AI Systems  
-- 🔍 **Curious About**: Backend magic, AI pipelines, database orchestration  
-- 🧭 **Learning Journey**: From Python scripts to Django, Docker, and Streamlit apps  
-- 🚀 **Tech Goals**:  
-  1. Build a solid software foundation  
-  2. Evolve into a full-stack AI engineer  
-  3. Dive deep into Cloud and Data Science  
+  1. Building a solid software foundation  
+
 
 ---
 
@@ -57,7 +53,6 @@ AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in
 
 - 💡 **DiLi** — Brand, Vision, and Smart Living Platform  
 - 🌐 **Portfolio Website** — Coming Soon, under DiLi identity  
-- 🍲 **JOT (Jollof Of Techies)** — Nigerian-themed tech culture platform  
 
 ---
 
