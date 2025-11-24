@@ -40,13 +40,6 @@ AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in
 - 🧪 **AI Engineering**: Using Hugging Face, Streamlit, Python APIs  
 - 🕸️ **AGI Curiosity**: Exploring foundational AI and emerging cognition
 
-📘 **Learning Tools**:  
-`Python` · `JS/TS` · `GitHub` · `W3schools` · `LangChain` · `TheAlgorithms` · `Hugging Face Spaces` · `Google AI Studio`
-
-🔬 **Key Project**:  
-> *DiLi’s Library of Voices* — AI voice and text tools for Hausa, Kanuri, Fulfulde & Shuwa.
-
----
 
 ## 🌟 About Me
 
