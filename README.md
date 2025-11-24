@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yahaya Minkail Ibrahim 👋</h1>
 
 <p align="center">
-  <b>Aspiring Computer Science Researcher | GenAI Application Engineer | Future Full-Stack Developer | Proudly Nigerian 🇳🇬</b>  
+  <b>Aspiring Computer Science Researcher |  Software Engineer |AI Enthu  | Proudly Nigerian 🇳🇬</b>  
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 🧠 My AI Journey
 
-> *“I do not fear AI. I walk with it.”*
+> *“I do not fear AI. I will walk with it.”*
 
 AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in curiosity.
 
@@ -41,7 +41,7 @@ AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in
 - 🕸️ **AGI Curiosity**: Exploring foundational AI and emerging cognition
 
 📘 **Learning Tools**:  
-`Python` · `PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `scikit-learn` · `Hugging Face Spaces` · `OpenAI API`
+`Python` · `JS/TS` · `GitHub` · `W3schools` · `LangChain` · `TheAlgorithms` · `Hugging Face Spaces` · `Google AI Studio`
 
 🔬 **Key Project**:  
 > *DiLi’s Library of Voices* — AI voice and text tools for Hausa, Kanuri, Fulfulde & Shuwa.
@@ -64,7 +64,6 @@ AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in
 
 - 💡 **DiLi** — Brand, Vision, and Smart Living Platform  
 - 🌐 **Portfolio Website** — Coming Soon, under DiLi identity  
-- 🧑‍🎓 **SPSP** — Student Projects Showcase Platform  
 - 🍲 **JOT (Jollof Of Techies)** — Nigerian-themed tech culture platform  
 
 ---
@@ -78,17 +77,6 @@ When I’m not building, I’m learning:
 - 🗣️ Communication & Negotiation Skills  
 - 📖 Biographies & Fiction of Builders, Legends, and Creatives  
 
----
-
-## 🚀 Skills & Technologies
-
-- 🧑‍💻 **Languages**: Python, JavaScript  
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React  
-- 🧱 **Backend**: Django, Streamlit  
-- 📊 **AI/ML Tools**: PyTorch, TensorFlow, Transformers, Hugging Face, Pandas, NumPy, Matplotlib  
-- ⚙️ **DevOps & Infra**: Git, GitHub, Docker (learning), NGINX (basic), WSL  
-
----
 
 ## 📊 GitHub Insights
 
@@ -119,7 +107,7 @@ When I’m not building, I’m learning:
 I'm always open to collaboration, mentorship, and knowledge sharing:
 
 - [Facebook](https://facebook.com/minkailyahayaibrahim)  
-- [Twitter / X](https://x.com/MinkailYahaya)  
+- [Twitter / X](https://x.com/0ffficialDiLi)  
 - [Instagram](https://instagram.com/minkailyahayaibrahim)  
 - [Telegram](https://t.me/MinkailYahaya)  
 - [Reddit](https://reddit.com/u/Yahayaminkail)  
