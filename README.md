@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yahaya Minkail Ibrahim 👋</h1>
 
 <p align="center">
-  <b>Aspiring Computer Science Researcher | Software Engineer | Youth Development Advocate | AI Enthusiast | Proudly Nigerian 🇳🇬</b>  
+  <b>Computer Science Graduate | Software Engineer | Youth Development Advocate | AI Enthusiast | Proudly Nigerian 🇳🇬</b>  
 </p>
 
 <p align="center">
