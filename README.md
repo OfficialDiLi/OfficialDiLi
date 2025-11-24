@@ -95,7 +95,7 @@ When I’m not building, I’m learning:
 I'm always open to collaboration, mentorship, and knowledge sharing:
 
 - [Facebook](https://facebook.com/minkailyahayaibrahim)  
-- [Twitter / X](https://x.com/0ffficialDiLi)  
+- [Twitter / X](https://x.com/0fficialDiLi)  
 - [Instagram](https://instagram.com/minkailyahayaibrahim)  
 - [Telegram](https://t.me/MinkailYahaya)  
 - [Reddit](https://reddit.com/u/Yahayaminkail)  
