@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yahaya Minkail Ibrahim 👋</h1>
 
 <p align="center">
-  <b>Computer Science Graduate | Software Engineer | Youth Development Advocate | AI Enthusiast | Proudly Nigerian 🇳🇬</b>  
+  <b>Computer Science Undergraduate | Software Engineer | AI Enthusiast | Youth Development Advocate | Proudly Nigerian 🇳🇬</b>
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 **DiLi (Digitalize Life)** is my personal and professional vision:  
 > “To harmonize life with intelligent technology — for smarter homes, empowered individuals, and digitally literate communities across Africa and beyond.”
 
-🎯 **Mission**: Build tools, platforms, and communities that merge **physical living with digital intelligence** — *Phygitally*.
+🎯 **Mission:** Build tools, platforms, and communities that merge **physical living with digital intelligence** — *Phygitally*.
 
-🔬 **Focus**:  
+🔬 **Focus Areas:**  
 - Smart Home Automation  
 - Digital Literacy & Access  
 - AI for Indigenous Languages  
 - Tech-Driven Education & Sustainability  
 
-> 🌀 DiLi is not just a brand—it's a movement to **live smarter, think deeper, and code for change**.
+> 🌀 DiLi is more than a brand — it’s a movement to **live smarter, think deeper, and code for change**.
 
 ---
 
@@ -31,60 +31,54 @@
 
 > *“I do not fear AI. I will walk with it.”*
 
-AI is not just a domain—it's the **language of tomorrow**, and I’m fluent in curiosity.
+AI is the **language of tomorrow**, and I approach it with curiosity and purpose.
 
-### 🎯 Core AI Focus Areas:
-- 🤖 **Generative AI**: Building with LLMs and fine-tuning for real-world impact  
-- 🌍 **Multilingual NLP**: Creating tools for African Indigenous Languages  
-- 🧠 **Ethical AI**: From data annotation to model fairness  
-- 🧪 **AI Engineering**: Using Hugging Face, Streamlit, Python APIs  
-- 🕸️ **AGI Curiosity**: Exploring foundational AI and emerging cognition
+### 🎯 Core Areas of Focus:
+- 🤖 **Generative AI** — LLMs, fine-tuning, applied AI  
+- 🌍 **Multilingual NLP** — African Indigenous Language technologies  
+- 🧠 **Ethical AI** — fairness, transparency, responsible data  
+- 🧪 **AI Engineering** — Hugging Face, Streamlit, Python APIs  
+- 🕸️ **AGI Curiosity** — foundational intelligence and cognition
 
 ---
 
 ## 🌟 About Me
 
-  1. Building a solid software foundation  
-
+1. Building a solid foundation in software engineering  
+2. Exploring the intersection of computing, culture, and community  
+3. Passionate about creating solutions that uplift and empower  
 
 ---
 
 ## 💼 Projects
 
-- 💡 **DiLi** — Brand, Vision, and Smart Living Platform  
-- 🌐 **Portfolio Website** — Coming Soon, under DiLi identity  
+- 💡 **DiLi** — Brand, Vision, and Smart Living Initiative  
+- 🌐 **Portfolio Website** — Coming soon under the DiLi identity  
 
 ---
 
 ## 📚 Interests
 
-When I’m not building, I’m learning:
+Beyond building, I explore:
 
 - 🧠 Tech Research & Trends  
-- 💸 Financial and Entrepreneurial Wisdom  
-- 🗣️ Communication & Negotiation Skills  
-- 📖 Biographies & Fiction of Builders, Legends, and Creatives  
+- 💸 Financial and Entrepreneurial Literacy  
+- 🗣️ Communication & Negotiation  
+- 📖 Biographies and Stories of Builders & Innovators  
 
+---
 
 ## 📊 GitHub Insights
 
 <div align="center">
 
-  <!-- Core GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" 
-       alt="Yahaya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" width="48%" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialDiLi&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialDiLi&layout=compact&theme=tokyonight" width="48%" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialDiLi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" 
-       alt="GitHub Streak Stats" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialDiLi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
 
-  <!-- GitHub Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=OfficialDiLi&theme=tokyonight&column=6&margin-w=10&margin-h=15" 
-       alt="Trophy Stats" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OfficialDiLi&theme=tokyonight&column=6&margin-w=10&margin-h=15" width="98%" />
 
 </div>
 
@@ -92,21 +86,22 @@ When I’m not building, I’m learning:
 
 ## 🌐 Let’s Connect
 
-I'm always open to collaboration, mentorship, and knowledge sharing:
+Open to collaboration, mentorship, and knowledge sharing:
 
 - [Facebook](https://facebook.com/minkailyahayaibrahim)  
 - [Twitter / X](https://x.com/0fficialDiLi)  
 - [Instagram](https://instagram.com/minkailyahayaibrahim)  
 - [Telegram](https://t.me/MinkailYahaya)  
 - [Reddit](https://reddit.com/u/Yahayaminkail)  
-- [LinkedIn](https://www.linkedin.com/public-profile/settings)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings)  
 
 ---
 
 ## 🙏 Final Word
 
 > Thank you for stopping by.  
-> Let’s **code the world into a better place**, one loop, one voice, one DiLi vision at a time.  
+> Let’s **code the world into a better place** — one loop, one voice, one DiLi vision at a time.  
 > ✨ *The world is waiting. DiLi is rising. I am Yahaya.*
 
 ---
+
