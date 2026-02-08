@@ -53,14 +53,16 @@ AI is the **language of tomorrow**, and I approach it with curiosity and purpose
 
 ## 🛠️ Tech Stack
 
-### Languages & Core Technologies
+<h3 align="center">Languages & Core Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,rust,bash" />
   </a>
 </p>
 
-### AI/ML & Data Science
+<br/>
+
+<h3 align="center">AI/ML & Data Science</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
@@ -73,7 +75,9 @@ AI is the **language of tomorrow**, and I approach it with curiosity and purpose
   <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=manim" alt="Icoziv-icons"></a>
 </p>
 
-### Web Frameworks & APIs
+<br/>
+
+<h3 align="center">Web Frameworks & APIs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,flask,django,htmx" />
@@ -84,14 +88,18 @@ AI is the **language of tomorrow**, and I approach it with curiosity and purpose
   <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=pydantic" alt="Icoziv-icons"></a>
 </p>
 
-### Development Tools & Platforms
+<br/>
+
+<h3 align="center">Development Tools & Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,latex,jenkins,docker" />
   </a>
 </p>
 
-### Data & Notebooks
+<br/>
+
+<h3 align="center">Data & Notebooks</h3>
 <p align="center">
 <!--
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="50" />
@@ -108,7 +116,9 @@ AI is the **language of tomorrow**, and I approach it with curiosity and purpose
   
 </p>
 
-### Databases & Cloud
+<br/>
+
+<h3 align="center">Databases & Cloud</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,redis,cassandra,d3,aws,gcp,azure" />
@@ -175,16 +185,15 @@ When I'm not coding, I explore:
 I'm always open to collaboration, mentorship, and meaningful conversations:
 
 <p align="center">
-  <a href="https://facebook.com/minkailyahayaibrahim"><a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=facebook" alt="Icoziv-icons"></a></a>
-  <a href="https://x.com/0fficialDiLi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/minkailyahayaibrahim"><a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=instagram" alt="Icoziv-icons"></a></a>
-  <a href="https://t.me/MinkailYahaya"><a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=telegram" alt="Icoziv-icons"></a></a>
-  <a href="https://reddit.com/u/Yahayaminkail"><a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=reddit" alt="Icoziv-icons"></a></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/minkailyahayaibrahim" title="Facebook"><img src="https://i.icoziv.workers.dev/icons?i=facebook" alt="Facebook"></a>
+  <a href="https://x.com/0fficialDiLi" title="X (Twitter)"><img src="https://i.icoziv.workers.dev/icons?i=x-dark" alt="X"></a>
+  <a href="https://instagram.com/minkailyahayaibrahim" title="Instagram"><img src="https://i.icoziv.workers.dev/icons?i=instagram" alt="Instagram"></a>
+  <a href="https://t.me/MinkailYahaya" title="Telegram"><img src="https://i.icoziv.workers.dev/icons?i=telegram" alt="Telegram"></a>
+  <a href="https://reddit.com/u/Yahayaminkail" title="Reddit"><img src="https://i.icoziv.workers.dev/icons?i=reddit" alt="Reddit"></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" title="LinkedIn"><img src="https://i.icoziv.workers.dev/icons?i=linkedin" alt="LinkedIn"></a>
 </p>
 
-📧 **Email:** minkailibrahimyahya@gmail.com
+📧 **Email:** <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="34595d5a5f555d585d5646555c5d594d555c4d55745359555d581a575b59">[email&#160;protected]</a>
 
 ---
 
@@ -197,6 +206,4 @@ I'm always open to collaboration, mentorship, and meaningful conversations:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OfficialDiLi&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+<p align="ce
