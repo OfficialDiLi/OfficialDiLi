@@ -164,9 +164,8 @@ When I'm not coding, I explore:
 
 ---
 
-## 📊 GitHub Insights
 
-## 📊 GitHub Insights
+## 📊 My GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" width="48%" />
