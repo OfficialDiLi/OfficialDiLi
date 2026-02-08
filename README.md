@@ -166,17 +166,16 @@ When I'm not coding, I explore:
 
 ## 📊 GitHub Insights
 
+## 📊 GitHub Insights
+
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialDiLi&layout=compact&theme=tokyonight" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialDiLi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=OfficialDiLi&theme=tokyonight&column=6&margin-w=10&margin-h=15" width="98%" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OfficialDiLi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OfficialDiLi&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=OfficialDiLi&theme=tokyonight" width="98%" />
+</div>
+
 
 ---
 
