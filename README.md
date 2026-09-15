@@ -24,7 +24,7 @@ I publish under **DiLi**, short for *Digitalize Life* — the idea that technolo
 
 ## Now
 
-- Working through a Linux track aimed at LPIC-1 / Linux Essentials, Debian-first
+- Focused on **Data, AI, Cloud and Embedded/IoT**
 - Learning ML, LLM fine-tuning and NLP for African languages by building rather than reading
 - Completed MIT Open Learning, Universal AI (2026)
 - Keeping a second brain in public: [`digital-brain-template`](https://github.com/OfficialDiLi/digital-brain-template)
