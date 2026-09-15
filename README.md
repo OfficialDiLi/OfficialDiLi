@@ -1,8 +1,8 @@
 <h1 align="center">Yahaya Minka'il Ibrahim</h1>
 
 <p align="center">
-  <b>Computer Science student → AI / Data / Cloud engineer</b><br/>
-  Nigeria 🇳🇬 &nbsp;·&nbsp; building under the name <b>DiLi</b>
+  <b>Learning to build AI that helps people</b><br/>
+  Computer Science student — building in the open 🇳🇬
 </p>
 
 <p align="center">
