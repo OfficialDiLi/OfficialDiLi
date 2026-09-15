@@ -34,7 +34,7 @@ I work under the name **DiLi**, short for *Digitalize Life*:
 - 🤖 Learning **ML, LLM fine-tuning and NLP for African languages** by building rather than reading
 - 🎓 Completed **MIT Open Learning — Universal AI** (2026)
 - 🧠 Maintaining a second brain in public — my vault's rules, decisions and lessons are open source: [`digital-brain-template`](https://github.com/OfficialDiLi/digital-brain-template)
-- 👨‍🏫 Helping developers use AI **without** outsourcing their engineering judgement: [`ai-blueprint`](https://github.com/OfficialDiLi/ai-blueprint) · [`skills`](https://github.com/OfficialDiLi/skills)
+- 👨‍🏫 Building tooling that keeps engineering judgement in the loop when working with AI: [`skills`](https://github.com/OfficialDiLi/skills)
 
 ---
 
@@ -43,14 +43,15 @@ I work under the name **DiLi**, short for *Digitalize Life*:
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[FarmConnect](https://github.com/OfficialDiLi/FarmConnect)** | Web recommendation system connecting small and medium farmers with buyers, markets and aggregators — personalised matching driven by machine learning | `Python` |
-| **[digital-brain-template](https://github.com/OfficialDiLi/digital-brain-template)** | An opinionated Obsidian second-brain template where the rules are written down: routing, verifiable concept cards, decision and lesson logs | `Markdown` |
-| **[ai-blueprint](https://github.com/OfficialDiLi/ai-blueprint)** | A repeatable process for coding with AI while you stay the architect of the project | `Markdown` |
-| **[skills](https://github.com/OfficialDiLi/skills)** | Agent skills for developers who want to ship production-ready software with AI without losing the engineering thinking behind it | — |
-| **[ai_engineering_from_scratch](https://github.com/OfficialDiLi/ai_engineering_from_scratch)** | *Learn it. Build it. Ship it for others.* — AI engineering built up from first principles | — |
+| **[CyberTrack](https://github.com/OfficialDiLi/CyberTrack)** | Threat-detection platform: analyses URLs, IPs, domains and file hashes using ML models plus VirusTotal, with auth, roles and scan history | `Python` `Flask` |
+| **[DataClean](https://github.com/OfficialDiLi/DataClean)** | Data-cleaning and analysis co-pilot — profiling, fuzzy duplicate handling, IQR outlier detection and SQL-like filtering in one interface | `Python` `Streamlit` |
+| **[revunion-ai-service](https://github.com/OfficialDiLi/revunion-ai-service)** | A small, disciplined internal AI service over HTTP. Deliberately not a chatbot — **if the AI fails, the product keeps working** | `Python` |
+| **[digital-brain-template](https://github.com/OfficialDiLi/digital-brain-template)** | Opinionated Obsidian second-brain template where the rules are written down: routing, verifiable concept cards, decision and lesson logs | `Markdown` |
 | **[OfficialDiLi.github.io](https://github.com/OfficialDiLi/OfficialDiLi.github.io)** | My personal site → **[officialdili.github.io](https://officialdili.github.io)** | `Astro` |
-| **[quran-database](https://github.com/OfficialDiLi/quran-database)** | Structured Qur'an text as a queryable MySQL database | `SQL` |
+| **[official-demacossa](https://github.com/OfficialDiLi/official-demacossa)** | Website for the KIU student society → [official-demacossa.vercel.app](https://official-demacossa.vercel.app) | `TypeScript` |
+| **[skills](https://github.com/OfficialDiLi/skills)** | Agent skills for developers who want production-ready software with AI without losing the engineering thinking behind it | `Markdown` |
 
-<sub>More on my [repositories page](https://github.com/OfficialDiLi?tab=repositories).</sub>
+<sub>Originals only — I also fork a lot, purely to learn from other people’s code. The rest of my repos are on the [repositories page](https://github.com/OfficialDiLi?tab=repositories).</sub>
 
 ---
 
